@@ -1,0 +1,10 @@
+*.vpr
+*.logicx/
+*.vsqx
+*.json
+*.wav
+*.pdf
+.DS_Store
+__pycache__/
+*.zip
+recovered_*
